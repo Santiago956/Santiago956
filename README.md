@@ -1,7 +1,7 @@
 ## Olá! Eu sou Pedro Paulo
 <div>
-  <img height ="180" widht ="120" src="https://github-readme-stats.vercel.app/api?username=Santiago956&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
-  <img height ="180"  widht ="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago956&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+  <img height ="160em" src="https://github-readme-stats.vercel.app/api?username=Santiago956&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+  <img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago956&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ##
