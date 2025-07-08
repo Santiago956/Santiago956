@@ -1,5 +1,5 @@
 # Hi! I'm Pedro Paulo:
-A data analysis student, currently learning SQl, Python libraries such as Pandas, Matplotlib and tools like Power BI and Microsoft Excel.
+A data analysis student, currently learning SQL, Python libraries such as Pandas, Matplotlib and tools like Power BI, Tableau and Microsoft Excel.
 
 
 ## 🌐 Socials:
