@@ -8,7 +8,7 @@ I’m also curious to dive deeper into **Data Engineering**, learning how to des
 🚀 **Currently working on:**  
 - Improving my skills with personal data projects.
 - Sharing my learning journey through my repositories.
-- Actively looking for an internship or junior opportunity to grow as a Data professional.
+- Currently looking for an internship or junior opportunity to grow as a Data professional.
 
 💡 **Interests:**  
 - Data Analysis & Visualization
