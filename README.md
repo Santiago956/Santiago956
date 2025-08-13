@@ -25,7 +25,7 @@ I’m also curious to dive deeper into **Data Engineering**, learning how to des
 A data analysis project exploring global video game sales.  
 Includes a business problem, data cleaning, exploratory data analysis (EDA), and insightful visualizations using **Python, SQL, Tableau, Excel** and **Jupyter Notebook**.  
 
-📊 Human Resources Dashboard
+### 📊 Human Resources Dashboard
 An interactive Power BI dashboard analyzing HR data to uncover workforce trends and support strategic decision-making.
 Includes data extraction with MySQL, cleaning and transformation, DAX calculations, and the creation of KPIs for turnover rate, diversity index, average tenure, and employee demographics.
 
