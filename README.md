@@ -17,7 +17,8 @@ I’m also curious to dive deeper into **Data Engineering**, learning how to des
 - Data Engineering
 
 📚 **Certifications:**  
-- Google Data Analytics Professional Certificate 
+- Google Data Analytics Professional Certificate
+- Data Analyst Associate - DataCamp
 - Data Science Academy: Microsoft Power BI for Business Intelligence, Data Science & Data Engineering Fundamentals
 
 ## 📂 Featured Projects
