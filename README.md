@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Paulo! 👋
 
-🎓 I’m currently studying **Analysis and Systems Development** and exploring the world of **Data Analytics**.
+🎓 I’m currently studying **Analysis and Systems Development** and exploring the world of **Data Analytics** and **Data Engineering**.
 
 🔍  I enjoy transforming complex datasets into clear, actionable insights using **Python, SQL, Excel, Power BI**.  
 I’m also curious to dive deeper into **Data Engineering**, learning how to design and maintain robust data pipelines that support analytics at scale. 
