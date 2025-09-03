@@ -30,6 +30,10 @@ Includes a business problem, data cleaning, exploratory data analysis (EDA), and
 An interactive Power BI dashboard analyzing HR data to uncover workforce trends and support strategic decision-making.
 Includes data extraction with MySQL, cleaning and transformation, DAX calculations, and the creation of KPIs for turnover rate, diversity index, average tenure, and employee demographics.
 
+### 🗄️ Mini Data Lake & Database Modeling
+A project focused on relational database modeling in PostgreSQL and simulating a mini data lake.
+Includes database design, populating with sample data, and building a simple data extraction pipeline to CSV, demonstrating basic ETL concepts and data flow management.
+
 
  # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
