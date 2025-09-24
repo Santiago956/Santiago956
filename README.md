@@ -15,6 +15,7 @@ I’m also curious to dive deeper into **Data Engineering**, learning how to des
 - Business Intelligence
 - Databases & SQL
 - Data Engineering
+- Cloud Computing
 
 📚 **Certifications:**  
 - Google Data Analytics Professional Certificate
