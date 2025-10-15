@@ -2,17 +2,16 @@
 
 🎓 I’m currently studying **Analysis and Systems Development** and exploring the world of **Data Analytics** and **Data Engineering**.
 
-🔍  I enjoy transforming complex datasets into clear, actionable insights using **Python, SQL, Excel, Power BI**.  
+🔍  I enjoy transforming complex datasets into clear, actionable insights using **Python, SQL and Power BI**.  
 I’m also curious to dive deeper into **Data Engineering**, learning how to design and maintain robust data pipelines that support analytics at scale. 
 
 🚀 **Currently working on:**  
 - Improving my skills with personal data projects.
 - Sharing my learning journey through my repositories.
-- Currently looking for an internship or junior opportunity to grow as a Data professional.
+- Currently working as a Data Migration Intern, developing my skills and growing as a Data professional
 
 💡 **Interests:**  
 - Data Analysis & Visualization
-- Business Intelligence
 - Databases & SQL
 - Data Engineering
 - Cloud Computing
