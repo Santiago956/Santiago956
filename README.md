@@ -1,25 +1,29 @@
 # Hi there, I'm Pedro Paulo! 👋
 
-🎓 I’m currently studying **Analysis and Systems Development** and exploring the world of **Data Analytics** and **Data Engineering**.
+🎓 I’m currently studying Analysis and Systems Development and specializing in Data Engineering.
 
 🔍  I enjoy transforming complex datasets into clear, actionable insights using **Python, SQL and Power BI**.  
 I’m also curious to dive deeper into **Data Engineering**, learning how to design and maintain robust data pipelines that support analytics at scale. 
 
 🚀 **Currently working on:**  
-- Improving my skills with personal data projects.
+- Continuously developing data-driven projects to strengthen my technical skills.
 - Sharing my learning journey through my repositories.
 - Currently working as a Data Migration Intern, developing my skills and growing as a Data professional
 
 💡 **Interests:**  
-- Data Analysis & Visualization
-- Databases & SQL
 - Data Engineering
+- Databases & SQL
+- Data Pipelines and ETL
+- Big Data
 - Cloud Computing
 
 📚 **Certifications:**  
 - Google Data Analytics Professional Certificate
+- Databricks Fundamentals
+- Oracle Data Platform 2025 Certified Foundations Associate
 - Data Analyst Associate - DataCamp
 - Data Science Academy: Microsoft Power BI for Business Intelligence, Data Science & Data Engineering Fundamentals
+
 
 ## 📂 Featured Projects
 ### 🎮 Video Game Sales Analysis  
@@ -38,8 +42,7 @@ Includes database design, populating with sample data, and building a simple dat
  # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppsantiago/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ppfsantiago@gmail.com)
