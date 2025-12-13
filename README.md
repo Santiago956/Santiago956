@@ -1,42 +1,27 @@
-# Hi there, I'm Pedro Paulo! 👋
+## Hi, I'm Pedro Paulo 👋
 
-🎓 I’m currently studying Analysis and Systems Development and specializing in Data Engineering.
+🎓 Studying **Analysis and Systems Development**, focusing on **Data Engineering**.  
+💼 Currently working as a **Data Migration Intern**, gaining hands-on experience with real-world data challenges.
 
-🔍  I enjoy transforming complex datasets into clear, actionable insights using **Python, SQL and Power BI**.  
-I’m also curious to dive deeper into **Data Engineering**, learning how to design and maintain robust data pipelines that support analytics at scale. 
+I’m continuously building data-driven projects to strengthen my technical skills and sharing my learning journey through GitHub.
 
-🚀 **Currently working on:**  
-- Continuously developing data-driven projects to strengthen my technical skills.
-- Sharing my learning journey through my repositories.
-- Currently working as a Data Migration Intern, developing my skills and growing as a Data professional
-
-💡 **Interests:**  
-- Data Engineering
-- Databases & SQL
-- Data Pipelines and ETL
-- Big Data
-- Cloud Computing
-
-📚 **Certifications:**  
-- Google Data Analytics Professional Certificate
-- Databricks Fundamentals
-- Oracle Data Platform 2025 Certified Foundations Associate
-- Data Analyst Associate - DataCamp
-- Data Science Academy: Microsoft Power BI for Business Intelligence, Data Science & Data Engineering Fundamentals
-
+My main interests include **Data Engineering** with Python and SQL, **modern ETL/ELT pipelines**, **Big Data**, and **Cloud Computing**.
 
 ## 📂 Featured Projects
-### 🎮 Video Game Sales Analysis  
-A data analysis project exploring global video game sales.  
-Includes a business problem, data cleaning, exploratory data analysis (EDA), and insightful visualizations using **Python, SQL, Tableau, Excel** and **Jupyter Notebook**.  
+
+### 🏗️ Data Warehouse with SQL Server
+End-to-end Data Warehousing project built with SQL Server, following the Medallion Architecture.  
+The project covers data ingestion, transformation, and modeling, focusing on data quality, scalability, and analytical readiness.  
+Technologies and concepts include SQL, ETL processes, dimensional modeling, and best practices for analytical data layers. 
 
 ### 📊 Human Resources Dashboard
 An interactive Power BI dashboard analyzing HR data to uncover workforce trends and support strategic decision-making.
 Includes data extraction with MySQL, cleaning and transformation, DAX calculations, and the creation of KPIs for turnover rate, diversity index, average tenure, and employee demographics.
 
 ### 🗄️ Mini Data Lake & Database Modeling
-A project focused on relational database modeling in PostgreSQL and simulating a mini data lake.
-Includes database design, populating with sample data, and building a simple data extraction pipeline to CSV, demonstrating basic ETL concepts and data flow management.
+Python-based project focused on relational database modeling with PostgreSQL and the simulation of a mini data lake.  
+Covers schema design, data population, and a lightweight ETL pipeline for extracting data to CSV, highlighting core concepts of data flow, structure, and analytical readiness.
+
 
 
  # 💻 Tech Stack:
