@@ -1,7 +1,7 @@
 ## Hi, I'm Pedro Paulo 👋
 
 🎓 Studying **Analysis and Systems Development**, focusing on **Data Engineering**.  
-💼 Currently working as a **Data Migration Intern**, gaining hands-on experience with real-world data challenges.
+💼 Currently working as a **Data Engineer Intern**, gaining hands-on experience with real-world data challenges.
 
 I’m continuously building data-driven projects to strengthen my technical skills and sharing my learning journey through GitHub.
 
