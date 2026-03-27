@@ -22,6 +22,9 @@ Includes data extraction with MySQL, cleaning and transformation, DAX calculatio
 Python-based project focused on relational database modeling with PostgreSQL and the simulation of a mini data lake.  
 Covers schema design, data population, and a lightweight ETL pipeline for extracting data to CSV, highlighting core concepts of data flow, structure, and analytical readiness.
 
+### ☁️ Open Weather End-to-End Data Pipeline
+An automated, production-ready end-to-end data engineering solution that extracts real-time weather information for all 27 Brazilian capitals via the OpenWeather API, processes it through a Medallion Architecture (Bronze/Silver/Gold layers), and delivers cost-optimized analytical insights on Google Cloud Platform.
+
 
 
  # 💻 Tech Stack:
