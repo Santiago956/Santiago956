@@ -18,9 +18,9 @@ Technologies and concepts include SQL, ETL processes, dimensional modeling, and 
 An interactive Power BI dashboard analyzing HR data to uncover workforce trends and support strategic decision-making.
 Includes data extraction with MySQL, cleaning and transformation, DAX calculations, and the creation of KPIs for turnover rate, diversity index, average tenure, and employee demographics.
 
-### 🗄️ Mini Data Lake & Database Modeling
-Python-based project focused on relational database modeling with PostgreSQL and the simulation of a mini data lake.  
-Covers schema design, data population, and a lightweight ETL pipeline for extracting data to CSV, highlighting core concepts of data flow, structure, and analytical readiness.
+### 📈 Business Intelligence Dashboard with Metabase
+An interactive BI solution built with Metabase and Google BigQuery to enable self-service analytics and real-time data exploration. The project connects directly to a structured data warehouse, allowing users to create dashboards, run ad hoc queries, and monitor key business metrics without technical dependencies.
+Covers data modeling for analytics, SQL-based query optimization, and the design of intuitive visualizations focused on usability and decision-making. Emphasizes data accessibility, performance, and the democratization of insights across different business areas.
 
 ### ☁️ Open Weather End-to-End Data Pipeline
 An automated, production-ready end-to-end data engineering solution that extracts real-time weather information for all 27 Brazilian capitals via the OpenWeather API, processes it through a Medallion Architecture (Bronze/Silver/Gold layers), and delivers cost-optimized analytical insights on Google Cloud Platform.
