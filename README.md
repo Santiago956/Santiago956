@@ -46,7 +46,7 @@ Tech stack: Metabase, BigQuery, Cloud Storage, Docker
 ### 🐍 Languages & Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Spark](https://camo.githubusercontent.com/960c116a5cda345e8086c54be7d189c295ea8414f39266aaee7832749d551911/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f537061726b2d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d23453335413136)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### 🗄️ Databases
