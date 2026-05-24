@@ -22,20 +22,20 @@ Focus areas include data quality, scalability, and cost optimization in cloud en
 
 Tech stack: Python, Apache Airflow, Google Cloud Platform (BigQuery, Cloud Storage), SQL.
 
-### 📊 Human Resources Dashboard
+### 📊 PeopleOps Dashboard
 An interactive Power BI dashboard analyzing HR data to uncover workforce trends and support strategic decision-making.
 Includes data extraction with MySQL, cleaning and transformation, DAX calculations, and the creation of KPIs for turnover rate, diversity index, average tenure, and employee demographics.
 
 Tech stack: Power BI, MySQL
 
-### 🏗️ Data Warehouse with SQL Server
+### 🏗️ Corporate DataWarehouse
 End-to-end Data Warehousing project built with SQL Server, following the Medallion Architecture.  
 The project covers data ingestion, transformation, and modeling, focusing on data quality, scalability, and analytical readiness.  
 Technologies and concepts include SQL, ETL processes, dimensional modeling, and best practices for analytical data layers. 
 
 Tech Stack: SQL Server/T-SQL
 
-### 📈 Business Intelligence Dashboard with Metabase
+### 📈 MovieLens Analytics with Metabase
 An interactive BI solution built with Metabase and Google BigQuery to enable self-service analytics and real-time data exploration. The project connects directly to a structured data warehouse, allowing users to create dashboards, run ad hoc queries, and monitor key business metrics without technical dependencies.
 Covers data modeling for analytics, SQL-based query optimization, and the design of intuitive visualizations focused on usability and decision-making. Emphasizes data accessibility, performance, and the democratization of insights across different business areas.
 
