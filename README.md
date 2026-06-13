@@ -1,5 +1,7 @@
 ## Hi, I'm Pedro Paulo 👋
 
+<img width="3168" height="792" alt="banner2_pedrop_aws_databricks_sql_python-eng" src="https://github.com/user-attachments/assets/4f6217ec-5d00-467c-b8e2-f23279813366" />
+
 🎓 Graduating in **Systems Analysis and Development** at UCB (Dec/2026),
 focused on **Data Engineering**.
 
@@ -41,6 +43,12 @@ Covers data modeling for analytics, SQL-based query optimization, and the design
 
 Tech stack: Metabase, BigQuery, Cloud Storage, Docker
 
+## 🏅 Certifications
+
+- Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- Google Data Analytics Professional Certificate
+- AWS Academy Cloud Foundations
+
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages & Libraries
@@ -79,14 +87,23 @@ Tech stack: Metabase, BigQuery, Cloud Storage, Docker
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago956&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Santiago956&theme=github-dark&hide_border=true"/>
+
+</div>
 
 
 
 
+## 🌐 Connect With Me
 
-## 🌐 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppsantiago/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ppfsantiago@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppsantiago/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ppfsantiago@gmail.com)
 
 
 <picture align="center">
