@@ -1,19 +1,19 @@
-## Hi, I'm Pedro Paulo 👋
+# Hi, I'm Pedro Paulo 👋
 
-<img width="3168" height="792" alt="banner2_pedrop_aws_databricks_sql_python-eng" src="https://github.com/user-attachments/assets/4f6217ec-5d00-467c-b8e2-f23279813366" />
+<img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/4f6217ec-5d00-467c-b8e2-f23279813366" />
 
-🎓 Graduating in **Systems Analysis and Development** at UCB (Dec/2026),
-focused on **Data Engineering**.
+Data Engineer focused on building scalable and reliable data solutions.
 
-💼 Currently a **Data Engineer Intern** at IZE Gestão Empresarial, working
-with real pipelines in production environments.
+🎓 Systems Analysis and Development @ Universidade Católica de Brasília (Dec/2026)
 
-🏅 Microsoft Certified: **Fabric Data Engineer** (DP-700) 
+💼 Data Engineer Intern @ IZE Gestão Empresarial
 
-I'm passionate about building robust data pipelines, cloud-native architectures,
-and turning raw data into reliable, analytical-ready assets.
-My main interests span **ETL/ELT pipelines**, **Big Data**, **Cloud Computing**,
-and **data quality at scale**.
+🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
+I design and develop data pipelines, data warehouses, and cloud-based analytics solutions that transform raw data into trusted business assets.
+
+Tech interests:
+Python • SQL • Airflow • Databricks • Fabric • AWS • GCP • Data Modeling • ETL/ELT
 
 ## 📂 Featured Projects
 
