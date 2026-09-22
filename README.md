@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Paulo 👋
 
-<img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/4f6217ec-5d00-467c-b8e2-f23279813366" />
+<img width="3168" height="792" alt="Data Engineer" src="https://github.com/user-attachments/assets/8fdb9e54-649f-44b8-8d87-04684e7bf2d5" />
 
 Data Engineer focused on building scalable and reliable data solutions.
 
