@@ -46,10 +46,10 @@ Tech stack: Metabase, BigQuery, Cloud Storage, Docker
 ## 🏅 Certifications
 
 - Microsoft Certified: Fabric Data Engineer Associate (DP-700)
-- Microsoft Certfied: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
 - AWS Certified Cloud Practitioner (CLF-C02)
+- AWS Re/Start
 - Google Data Analytics Professional Certificate
-- AWS Academy Cloud Foundations
 
 ## 🛠️ Tech Stack
 
